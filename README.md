@@ -10,4 +10,4 @@ docker run -ti --user user xisabla/archlinux-yay
 
 ## License
 
-[MIT License](https://github.com/Xisabla/archlinux-yay/blob/master/LICENSE.md)
+[MIT License](https://github.com/Xisabla/docker-archlinux-yay/blob/master/LICENSE.md)
